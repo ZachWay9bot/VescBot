@@ -18,26 +18,35 @@ Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Butt
                  Communication Error Safety Lockout)
                 
                  (SoC BMS Readout or Fixed Cell # or Auto Ranging)
-                 
+<BR>
+<BR>                 
 BMS      : 100% SoC See Update: 05-Nov-2025-21:51h
 Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)
-Button P : 60% (1 Short Press Light on/off, 2 short Switch Eco,D,S, 1 Long Press ToDo: Cruise Mode or Backlight Bevaviour Always On or Brake Activated Dim/Full On )
+Button P : 60% 
+                  
+                  (1 Short Press Light on/off, 
+                   2 short Presses Switch Eco,D,S, 
+                   1 Long Press ToDo: Cruise Mode or Backlight Bevaviour 
+                     Always On or Brake Activated Dim/Full On )
 
-
+<BR>
+<BR>
 Ninebot G2: 
 Dashboard: 100%
 BMS      : 100%
 Ported   : 90% ToDo: P Mode and Lock
-
+<BR>
+<BR>
 
 Ninebot G3: 
 Dashboard: 40%
 BMS      : 0%
 Ported   : 40%
-
+<BR>
+<BR>
 Vesc:
 
-Protocol : 100% Thanx to: 
+Protocol : 100% Thanx to: Benjamin Vedder https://github.com/vedderb
 
 
 05-Nov-2025-21:51h.-----------------------------------------------------------------------<BR>

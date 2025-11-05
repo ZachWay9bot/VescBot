@@ -6,8 +6,35 @@
 <BR>
 <BR>
 
-05-Nov-2025-21:51h.-----------------------------------------------------------------------<BR>
+
+What we´ve got:
 <BR>
+
+Ninebot G30: 
+Dashboard: 100% (Throttle, Brake (BB4T Safety 0.1b Brake before Throttle , if both pressed at the same time. with Communication Error Safety Lockout) 
+BMS      : 100% See Update: 05-Nov-2025-21:51h
+Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)
+Button P : 60% (1 Short Press Light on/off, 2 short Switch Eco,D,S, 1 Long Press ToDo: Cruise Mode or Backlight Bevaviour Always On or Brake Activated Dim/Full On )
+
+
+Ninebot G2: 
+Dashboard: 100%
+BMS      : 100%
+Ported   : 90% ToDo: P Mode and Lock
+
+
+Ninebot G3: 
+Dashboard: 40%
+BMS      : 0%
+Ported   : 40%
+
+Vesc:
+
+Protocol : 100% Thanx to: 
+
+
+05-Nov-2025-21:51h.-----------------------------------------------------------------------<BR>
+
 Added BMS Activator & Connector Reference: https://github.com/NormalHuman-Anything<BR>
 19A only auf ECO <BR>
 40A Max.(may dif. G2/G3 ) DRIVE und SPORT <BR>

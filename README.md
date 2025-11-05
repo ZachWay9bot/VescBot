@@ -5,7 +5,7 @@
 
 
 
-05-Nov-2025-21:51h.-----------------------------------------------------------------------
-Added BMS Activator & Connector Reference: https://github.com/NormalHuman-Anything
-19A only auf ECO 
-40A Max.(may dif. G2/G3 ) DRIVE und SPORT 
+05-Nov-2025-21:51h.-----------------------------------------------------------------------<BR>
+Added BMS Activator & Connector Reference: https://github.com/NormalHuman-Anything<BR>
+19A only auf ECO <BR>
+40A Max.(may dif. G2/G3 ) DRIVE und SPORT <BR>

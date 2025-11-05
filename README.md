@@ -11,7 +11,7 @@ What we´ve got:
 <BR>
 
 Ninebot G30: 
-Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Button Logic)
+Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Button Logic)<BR>
 
                  (BB4T Safety 0.1b Brake before Throttle ,
                  if both pressed at the same time. 
@@ -21,8 +21,8 @@ Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Butt
 <BR>
 <BR>                 
 BMS      : 100% SoC See Update: 05-Nov-2025-21:51h
-Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)
-Button P : 60% 
+Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)<BR>
+Button P : 60% <BR>
                   
                   (1 Short Press Light on/off, 
                    2 short Presses Switch Eco,D,S, 

@@ -21,7 +21,9 @@ Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Butt
 <BR>
 <BR>                 
 BMS      : 100% SoC See Update: 05-Nov-2025-21:51h<BR>
+<BR>
 Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)<BR>
+<BR>
 Button P : 60% <BR>
                   
                   (1 Short Press Light on/off, 

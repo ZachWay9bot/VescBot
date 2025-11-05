@@ -3,3 +3,9 @@
 
 <CENTER><B>Ninebot &lt;> VESC Bridge without Lisp scripting</B></CENTER>
 
+
+
+05-Nov-2025-21:51h.-----------------------------------------------------------------------
+Added BMS Activator & Connector Reference: https://github.com/NormalHuman-Anything
+19A only auf ECO 
+40A Max.(may dif. G2/G3 ) DRIVE und SPORT 

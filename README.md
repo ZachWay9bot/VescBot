@@ -7,10 +7,10 @@
 <BR>
 
 
-What we´ve got:
+What we´ve got:<BR>
 <BR>
 
-Ninebot G30: 
+Ninebot G30: <BR>
 Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Button Logic)<BR>
 
                  (BB4T Safety 0.1b Brake before Throttle ,
@@ -20,7 +20,7 @@ Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Butt
                  (SoC BMS Readout or Fixed Cell # or Auto Ranging)
 <BR>
 <BR>                 
-BMS      : 100% SoC See Update: 05-Nov-2025-21:51h
+BMS      : 100% SoC See Update: 05-Nov-2025-21:51h<BR>
 Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)<BR>
 Button P : 60% <BR>
                   
@@ -32,9 +32,9 @@ Button P : 60% <BR>
 <BR>
 <BR>
 Ninebot G2: 
-Dashboard: 100%
-BMS      : 100%
-Ported   : 90% ToDo: P Mode and Lock
+Dashboard: 100%<BR>
+BMS      : 100%<BR>
+Ported   : 90% ToDo: P Mode and Lock<BR>
 <BR>
 <BR>
 

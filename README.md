@@ -17,7 +17,7 @@ Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Butt
                  if both pressed at the same time. 
                  Communication Error Safety Lockout)
                 
-                 (BMS Readout or Fixed Cell # or Auto Ranging)
+                 (SoC BMS Readout or Fixed Cell # or Auto Ranging)
                  
 BMS      : 100% SoC See Update: 05-Nov-2025-21:51h
 Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)

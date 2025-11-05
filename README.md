@@ -11,8 +11,15 @@ What we´ve got:
 <BR>
 
 Ninebot G30: 
-Dashboard: 100% (Throttle, Brake (BB4T Safety 0.1b Brake before Throttle , if both pressed at the same time. with Communication Error Safety Lockout) 
-BMS      : 100% See Update: 05-Nov-2025-21:51h
+Dashboard: 100% (Throttle & Brake (Halls), Akku%, Speed km/h, Light On/Off, Button Logic)
+
+                 (BB4T Safety 0.1b Brake before Throttle ,
+                 if both pressed at the same time. 
+                 Communication Error Safety Lockout)
+                
+                 (BMS Readout or Fixed Cell # or Auto Ranging)
+                 
+BMS      : 100% SoC See Update: 05-Nov-2025-21:51h
 Ported   : 100% Payload (incl. Hearbeat, ACK, Throttle, Brake, Speed, Akku, Light, Lock, Park)
 Button P : 60% (1 Short Press Light on/off, 2 short Switch Eco,D,S, 1 Long Press ToDo: Cruise Mode or Backlight Bevaviour Always On or Brake Activated Dim/Full On )
 

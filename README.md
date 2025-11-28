@@ -51,14 +51,17 @@ Vesc:
 Protocol : 100% Thanx to: Benjamin Vedder https://github.com/vedderb
 
 
+<B>Progress:</B>
+
+28-Nov-2025-15:51h.-----------------------------------------------------------------------<BR>
+
+Preparing First Public Beta
+
+
+
 05-Nov-2025-21:51h.-----------------------------------------------------------------------<BR>
 
 Added BMS Activator & Connector Reference: https://github.com/NormalHuman-Anything<BR>
 19A only auf ECO <BR>
 40A Max.(may dif. G2/G3 ) DRIVE und SPORT <BR>
 
-
-28-Nov-2025-15:51h.-----------------------------------------------------------------------<BR>
-
-
-Preparing First Public Beta
